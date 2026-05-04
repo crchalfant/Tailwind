@@ -191,3 +191,9 @@ The three API routes are a standalone data layer. The dashboard accepts `?sector
 - **Persistent cache** — swap in-memory cache for Upstash Redis for production reliability.
 - **Richer news sources** — Marketaux's free tier caps at 100 requests/day. A production version would explore Finnhub or a paid Marketaux plan for higher volume and fresher data.
 - **Official sector performance data** — Yahoo Finance's chart API is unofficial, has no SLA, and could break without notice. A production version would use a licensed data source — FRED industry indices, BLS sector data, or a paid financial data API.
+
+---
+
+## License
+
+[CC BY-NC 4.0](./LICENSE) — free to use and adapt, but not for commercial purposes.
