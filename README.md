@@ -7,12 +7,10 @@ A two-minute economic briefing for small business owners. Pick your sector, get 
 ## Screenshots
 
 **Sector Selection**
-
-<img width="1260" alt="Sector Selection Screen" src="https://github.com/user-attachments/assets/ec33017a-3e94-4b88-807c-88ef95f0612a" />
+<img width="800" height="513" alt="1777914659184" src="https://github.com/user-attachments/assets/aed3afa6-e1e8-4489-85f2-7f06d133b6a4" />
 
 **Dashboard**
-
-<img width="1268" alt="Tailwind Dashboard" src="https://github.com/user-attachments/assets/4ce9e03e-bf34-4056-b15a-da205a62c063" />
+<img width="800" height="582" alt="1777914659266" src="https://github.com/user-attachments/assets/665456c3-6bf2-42b8-980c-adee393f26ef" />
 
 ---
 
